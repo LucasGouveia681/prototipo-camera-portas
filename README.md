@@ -1,4 +1,4 @@
-# Nome do projeto, prototipo da camera e personagem 
+# prototipo da camera e personagem 
  
 **Aluno:** Lucas Gouveia de Moraes Paiva
 **Turma:** 2026.09.67
